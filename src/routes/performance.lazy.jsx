@@ -26,16 +26,16 @@ function PerformanceComponent() {
       : defaultTodosExer;
 
   const pillars = [
-    { name: "Decomposição", img: "/img/ana.png", lessons: 0, total: 1, color: "#D5C2E0", },
+    { name: "Decomposição", img: "/img/ana.png", lessons: 1, total: 1, color: "#D5C2E0", },
     {
       name: "Reconhecimento de Padrões",
       img: "/img/lilu.png",
-      lessons: 0,
+      lessons: 1,
       total: 1,
       color: "#F8DD56",
     },
-    { name: "Abstração", img: "/img/soso.png", lessons: 0, total: 1, color: "#78BD77" },
-    { name: "Algoritmos", img: "/img/cadu.png", lessons: 0, total: 1, color: "#C2DAD6" },
+    { name: "Abstração", img: "/img/soso.png", lessons: 1, total: 1, color: "#78BD77" },
+    { name: "Algoritmos", img: "/img/cadu.png", lessons: 1, total: 1, color: "#C2DAD6" },
   ];
 
   const exercises = [
